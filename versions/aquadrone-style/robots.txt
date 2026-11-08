@@ -1,0 +1,5 @@
+# This file is published under /intercontinental-jerusalem-plan/robots.txt.
+# Crawlers only apply a robots.txt that lives at the host root, so every page
+# also carries a noindex meta tag. Do not treat this file as the host policy.
+User-agent: *
+Disallow: /
